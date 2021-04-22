@@ -1,0 +1,38 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="17">
+            <item index="0" class="java.lang.String" itemvalue="jupyter-core" />
+            <item index="1" class="java.lang.String" itemvalue="tensorflow-estimator" />
+            <item index="2" class="java.lang.String" itemvalue="opencv-python" />
+            <item index="3" class="java.lang.String" itemvalue="h5py" />
+            <item index="4" class="java.lang.String" itemvalue="progressbar2" />
+            <item index="5" class="java.lang.String" itemvalue="sklearn" />
+            <item index="6" class="java.lang.String" itemvalue="jupyter-client" />
+            <item index="7" class="java.lang.String" itemvalue="numpy" />
+            <item index="8" class="java.lang.String" itemvalue="pyrsistent" />
+            <item index="9" class="java.lang.String" itemvalue="jedi" />
+            <item index="10" class="java.lang.String" itemvalue="tensorflow" />
+            <item index="11" class="java.lang.String" itemvalue="pyzmq" />
+            <item index="12" class="java.lang.String" itemvalue="bleach" />
+            <item index="13" class="java.lang.String" itemvalue="certifi" />
+            <item index="14" class="java.lang.String" itemvalue="jupyter-console" />
+            <item index="15" class="java.lang.String" itemvalue="prompt-toolkit" />
+            <item index="16" class="java.lang.String" itemvalue="grpcio" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="tensorflow.__version__" />
+          <option value="wb_vehicle_detection" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
